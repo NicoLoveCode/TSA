@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+.big_text {
+    text-align: center;
+    color: black;
+    background-image: url("https://bloximages.chicago2.vip.townnews.com/tetonvalleynews.net/content/tncms/assets/v3/editorial/e/74/e7441dc8-222d-11ed-9fe7-07599d622749/63039ea6b0c59.image.jpg?crop=819%2C461%2C0%2C176&resize=1200%2C675&order=crop%2Cresize");
+    height: 176px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
