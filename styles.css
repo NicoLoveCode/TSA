@@ -22,37 +22,39 @@ body {
 }
 
 /* style buttons */
-.about, .games, .contact, .faq {
+.about, .games, .characters, .htw {
     border: #3C3C3C;
     height: 50px;
-    width: 100px;
+    width: 119px;
     margin-top: 5px;
     margin-left: 8.5px;
     margin-right: 8.5px;
     text-emphasis-color: white;
-    font-size: 20px;
+    font-size: 17px;
     border-radius: 25%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font: bold;
     color: #3C3C3C;
-    
+    margin-bottom: 10px;
 }
 
 /* when hovering over buttons */
-.about:hover, .games:hover, .contact:hover, .faq:hover {
+.about:hover, .games:hover, .characters:hover, .htw:hover {
     border: #3C3C3C;
     height: 50px;
-    width: 100px;
+    width: 119px;
     margin-top: 5px;
     margin-left: 8.5px;
     margin-right: 8.5px;
     text-emphasis-color: white;
-    font-size: 20px;
+    font-size: 17px;
     border-radius: 25%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font: bold;
     color: #3C3C3C;
     box-shadow: 0px 0px 4px 4px white;
+    margin-bottom: 10px;
+
 }
 
 .e {
