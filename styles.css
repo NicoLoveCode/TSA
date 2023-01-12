@@ -6,7 +6,7 @@ body {
 
 
 /* about header (h3) style */
-.h3about {
+.h3about, .characters_h3 {
     color: white;
     font: bold;
     text-align: center;
@@ -14,7 +14,7 @@ body {
 }
 
 /* about paragraph style */
-.p_about {
+.p_about, .p_characters    {
     color: whitesmoke;
     font: bold;
     text-align: center;
@@ -65,3 +65,4 @@ body {
 .e {
     color: #3C3C3C;
 }
+
