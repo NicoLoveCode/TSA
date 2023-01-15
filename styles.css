@@ -37,7 +37,8 @@ body {
     color: white;
     margin-bottom: 10px;
     font: bolder;
-    
+    background-color: #0000EE;
+    background: blue
 }
 
 /* when hovering over buttons */
@@ -56,7 +57,8 @@ body {
     color: lightcoral;
     box-shadow: 0px 0px 4px 4px #0000EE;
     margin-bottom: 10px;
-
+    background-color: #0000EE;
+    background: blue
 }
 
 .about:link, .games:link, .characters:link, .htw:link {
@@ -76,14 +78,35 @@ body {
     float: middle;
 }
 
-.denis_pic {
+.Dennis_pic {
     size: 20px;
     vertical-align: right;
     height: 400px;
     width: 330px;
-    margin-right: 0px;
+    margin-right: 20px;
     float: right;
     margin-right: 50px;
+}
+
+.mike_pic {
+    size: 20px;
+    
+    height: 400px;
+    width: 400px;
+    margin-left: 0px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 70px;
+    margin-right: 500px;
+}
+
+.mike_text {
+    float: middle;
+    vertical-align: middle;
+    color: whitesmoke;
+    font-size: 20px;
+    width: 510px;
+    margin-left: 50px;
 }
 
 .prime_text {
@@ -98,7 +121,7 @@ body {
     width: 510px;
 }
 
-.denis_text {
+.Dennis_text {
     height: 300px;
     size: 5px;
     vertical-align: bottom;
@@ -107,26 +130,42 @@ body {
     font-size: 20px;
     width: 500px;
     margin-top: 200px;
-    margin-left: 45px;
+    margin-left: 90px;
 }
 
 .game1 {
     float: left;
+    margin-left: 100px;
 }
 
 .game2 {
     float: right;
+    margin-right: 100px;
 }
 
 .game3 {
     float: left;
+    margin-left: 100px;
 }
 
 .game4 {
     float: right;
+    margin-right: 100px;
 }
 
 .game5 {
     float: left;
+    margin-left: 100px;
 }
 
+
+.game6 {
+    float: right;
+    margin-right: 100px;
+}
+
+.monke {
+    color: whitesmoke;
+    size: 3px;
+    align-items: center;
+}
