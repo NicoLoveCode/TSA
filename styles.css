@@ -14,7 +14,7 @@ body {
 }
 
 /* about paragraph style */
-.p_about, .p_characters    {
+.p_about, .p_characters  {
     color: whitesmoke;
     font: bold;
     text-align: center;
@@ -45,7 +45,7 @@ body {
     border: #3C3C3C;
     height: 50px;
     width: 114px;
-    margin-top: 5px;
+    margin-top: -2px;
     margin-left: 8.5px;
     margin-right: 8.5px;
     text-emphasis-color: whitesmoke;
@@ -64,5 +64,26 @@ body {
 }
 .e {
     color: #3C3C3C;
+    width: 5px;
 }
 
+.prime_pic {
+    size: 20px;
+    vertical-align: middle;
+    height: 300px;
+    width: 340px;
+    margin-right: 0px;
+    float: middle;
+}
+
+.prime_text {
+    float: bottom;
+    
+    height: 300px;
+    size: 5px;
+    vertical-align: bottom;
+    float: middle;
+    color: whitesmoke;
+    font-size: 20px;
+    width: 510px;
+}
