@@ -1,12 +1,12 @@
 
 /* background */
 body {
-    background-color: #3C3C3C;
+    background-color: lightcoral;
 }
 
 
 /* about header (h3) style */
-.h3about, .characters_h3, .game_h3 {
+.h3about, .characters_h3, .game_h3, .htw_h3 {
     color: white;
     font: bold;
     text-align: center;
@@ -14,7 +14,7 @@ body {
 }
 
 /* about paragraph style */
-.p_about, .p_characters, .game_text  {
+.p_about, .p_characters, .game_text, .htw_text  {
     color: whitesmoke;
     font: bold;
     text-align: center;
@@ -23,18 +23,18 @@ body {
 
 /* style buttons */
 .about, .games, .characters, .htw {
-    border: #3C3C3C;
+    border: lightcoral;
     height: 45px;
     width: 114px;
     margin-top: 5px;
     margin-left: 8.5px;
     margin-right: 8.5px;
-    text-emphasis-color: blue;
+    text-emphasis-color: #0000EE;
     font-size: 13px;
     border-radius: 25%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font: bold;
-    color: #3C3C3C;
+    color: white;
     margin-bottom: 10px;
     font: bolder;
     
@@ -42,28 +42,28 @@ body {
 
 /* when hovering over buttons */
 .about:hover, .games:hover, .characters:hover, .htw:hover {
-    border: #3C3C3C;
+    border: lightcoral;
     height: 50px;
     width: 114px;
     margin-top: -2px;
     margin-left: 8.5px;
     margin-right: 8.5px;
-    text-emphasis-color: blue;
+    text-emphasis-color: #0000EE;
     font-size: 13px;
     border-radius: 25%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font: bold;
-    color: #3C3C3C;
-    box-shadow: 0px 0px 4px 4px blue;
+    color: lightcoral;
+    box-shadow: 0px 0px 4px 4px #0000EE;
     margin-bottom: 10px;
 
 }
 
 .about:link, .games:link, .characters:link, .htw:link {
-    color: blue;
+    color: #0000EE;
 }
 .e {
-    color: #3C3C3C;
+    color: lightcoral;
     width: 5px;
 }
 
@@ -109,3 +109,24 @@ body {
     margin-top: 200px;
     margin-left: 45px;
 }
+
+.game1 {
+    float: left;
+}
+
+.game2 {
+    float: right;
+}
+
+.game3 {
+    float: left;
+}
+
+.game4 {
+    float: right;
+}
+
+.game5 {
+    float: left;
+}
+
