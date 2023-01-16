@@ -2,19 +2,21 @@
 /* background */
 body {
     background-color:  #0072bb;
+    
+} 
+
+.ban {
+    width: 700px;
+    height: 680;
+    margin: 4px;
 }
-
-
-/* .header-image {
-    background-image: url(“https://keep.google.com/u/1/media/v2/1m9PxrTeL0ePLPVleoOeT8Zj15ZpVBuIBDNXMWhouuK7_4xCLAsxMEAY8aT9RYg/11Ws9kJ_-GaniZzXKHhZUXLP9UY1_F2WNoXsx_iwWgKZNsVV7v4Ygaoz0DwMphu0?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp”);
-} */
 
 /* about header (h3) style */
 .h3about, .characters_h3, .game_h3, .htw_h3 {
     color: white;
     font: bold;
     text-align: center;
-    font-size: 50px;
+    font-size: 55px;
 }
 
 /* about paragraph style */
@@ -22,7 +24,7 @@ body {
     color: whitesmoke;
     font: bold;
     text-align: center;
-    font-size: 20px;
+    font-size: 23px;
 }
 
 /* style buttons */
@@ -34,7 +36,7 @@ body {
     margin-left: 8.5px;
     margin-right: 8.5px;
     text-emphasis-color: lightcoral;
-    font-size: 13px;
+    font-size: 16.4px;
     border-radius: 25%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font: bold;
@@ -54,7 +56,7 @@ body {
     margin-left: 8.5px;
     margin-right: 8.5px;
     text-emphasis-color: #0072bb;
-    font-size: 13px;
+    font-size: 16.4px;
     border-radius: 25%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font: bold;
@@ -108,7 +110,7 @@ body {
     float: middle;
     vertical-align: middle;
     color: whitesmoke;
-    font-size: 20px;
+    font-size: 23px;
     width: 510px;
     margin-left: 50px;
 }
@@ -121,7 +123,7 @@ body {
     vertical-align: bottom;
     float: middle;
     color: whitesmoke;
-    font-size: 20px;
+    font-size: 23px;
     width: 510px;
 }
 
@@ -131,7 +133,7 @@ body {
     vertical-align: bottom;
     float: left;
     color: whitesmoke;
-    font-size: 20px;
+    font-size: 23px;
     width: 500px;
     margin-top: 200px;
     margin-left: 90px;
@@ -167,6 +169,9 @@ body {
     float: right;
     margin-right: 100px;
 }
+
+
+
 
 .monke {
     color: whitesmoke;
