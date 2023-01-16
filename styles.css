@@ -1,7 +1,7 @@
 
 /* background */
 body {
-    background-color: lightcoral;
+    background-color:  #0072bb;
 }
 
 
@@ -29,7 +29,7 @@ body {
     margin-top: 5px;
     margin-left: 8.5px;
     margin-right: 8.5px;
-    text-emphasis-color: #0000EE;
+    text-emphasis-color: lightcoral;
     font-size: 13px;
     border-radius: 25%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -37,35 +37,35 @@ body {
     color: white;
     margin-bottom: 10px;
     font: bolder;
-    background-color: #0000EE;
-    background: blue
+    background-color: lightcoral;
+    background: lightcoral;
 }
 
 /* when hovering over buttons */
 .about:hover, .games:hover, .characters:hover, .htw:hover {
-    border: lightcoral;
+    border: #0072bb;
     height: 50px;
     width: 114px;
     margin-top: -2px;
     margin-left: 8.5px;
     margin-right: 8.5px;
-    text-emphasis-color: #0000EE;
+    text-emphasis-color: #0072bb;
     font-size: 13px;
     border-radius: 25%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font: bold;
-    color: lightcoral;
-    box-shadow: 0px 0px 4px 4px #0000EE;
+    color: white;
+    box-shadow: 0px 0px 4px 4px lightcoral;
     margin-bottom: 10px;
-    background-color: #0000EE;
-    background: blue
+    background-color: lightcoral;
+    background: lightcoral
 }
 
 .about:link, .games:link, .characters:link, .htw:link {
-    color: #0000EE;
+    color: #0072bb;
 }
 .e {
-    color: lightcoral;
+    color: #0072bb;
     width: 5px;
 }
 
@@ -169,3 +169,32 @@ body {
     size: 3px;
     align-items: center;
 }
+
+.scrolltop {
+    background-color: white;
+    color: lightcoral;
+    border-radius: 90px;
+    border: 0px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    float: right;
+
+
+    border: white;
+    height: 60px;
+    width:  60px;
+    margin-top: 0px;
+    margin-left: 8.5px;
+    margin-right: 2pxpx;
+    text-emphasis-color: lightcoral;
+    font-size: 20px;
+    border-radius: 90%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: bold;
+    color: lightcoral;
+    margin-right: 30px;
+    margin-bottom: 25px;
+    background-image: url('https://cdn-icons-png.flaticon.com/512/271/271239.png');
+}
+
