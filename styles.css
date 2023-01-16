@@ -36,7 +36,7 @@ body {
     margin-left: 8.5px;
     margin-right: 8.5px;
     text-emphasis-color: lightcoral;
-    font-size: 16.4px;
+    font-size: 13.8px;
     border-radius: 25%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font: bold;
@@ -56,7 +56,7 @@ body {
     margin-left: 8.5px;
     margin-right: 8.5px;
     text-emphasis-color: #0072bb;
-    font-size: 16.4px;
+    font-size: 13.8px;
     border-radius: 25%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font: bold;
@@ -72,7 +72,7 @@ body {
 }
 .e {
     color: #0072bb;
-    width: 5px;
+    width: 0.1px;
 }
 
 .prime_pic {
