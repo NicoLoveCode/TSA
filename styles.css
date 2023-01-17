@@ -209,7 +209,7 @@ body {
 
 .notice {
     color: white;
-    float: middle;
+    float: left;
     font-size: 10px;
     width: 20px;
     white-space: nowrap;
