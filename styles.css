@@ -36,7 +36,7 @@ body {
     margin-left: 8.5px;
     margin-right: 8.5px;
     text-emphasis-color: lightcoral;
-    font-size: 13px;
+    font-size: 12px;
     border-radius: 25%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font: bold;
@@ -56,7 +56,7 @@ body {
     margin-left: 8.5px;
     margin-right: 8.5px;
     text-emphasis-color: #0072bb;
-    font-size: 13px;
+    font-size: 12px;
     border-radius: 25%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font: bold;
@@ -205,5 +205,14 @@ body {
     margin-right: 30px;
     margin-bottom: 25px;
     background-image: url('https://cdn-icons-png.flaticon.com/512/271/271239.png');
+}
+
+.notice {
+    color: white;
+    float: middle;
+    font-size: 10px;
+    width: 20px;
+    white-space: nowrap;
+    right: 40px;
 }
 
