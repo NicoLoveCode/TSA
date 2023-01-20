@@ -141,33 +141,39 @@ body {
 
 .game1 {
     float: left;
-    margin-left: 100px;
+    margin-left: 25px;
+    margin-bottom: 10px;
 }
 
 .game2 {
     float: right;
-    margin-right: 100px;
+    margin-right: 25px;
+    margin-bottom: 10px;
 }
 
 .game3 {
     float: left;
-    margin-left: 100px;
+    margin-left: 25px;
+    margin-bottom: 10px;
 }
 
 .game4 {
     float: right;
-    margin-right: 100px;
+    margin-right: 25px;
+    margin-bottom: 10px;
 }
 
 .game5 {
     float: left;
-    margin-left: 100px;
+    margin-left: 25px;
+    margin-bottom: 10px;
 }
 
 
 .game6 {
     float: right;
-    margin-right: 100px;
+    margin-right: 25px;
+    margin-bottom: 10px;
 }
 
 
@@ -216,3 +222,8 @@ body {
     right: 40px;
 }
 
+
+.sources {
+    color: white;
+    font-size: 17px;
+}
