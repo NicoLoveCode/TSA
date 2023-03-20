@@ -21,7 +21,7 @@ body {
 
 /* about paragraph style */
 .p_about, .p_characters, .game_text, .htw_text  {
-    color: whitesmoke;
+    color: black;
     font: bold;
     text-align: center;
     font-size: 23px;
@@ -29,22 +29,22 @@ body {
 
 /* style buttons */
 .about, .games, .characters, .htw {
-    border: lightcoral;
+    border: darkblue;
     height: 45px;
     width: 114px;
     margin-top: 5px;
     margin-left: 8.5px;
     margin-right: 8.5px;
-    text-emphasis-color: lightcoral;
+    text-emphasis-color: darkblue;
     font-size: 12px;
     border-radius: 25%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font: bold;
-    color: white;
+    color: black;
     margin-bottom: 10px;
     font: bolder;
-    background-color: lightcoral;
-    background: lightcoral;
+    background-color: darkblue;
+    background: darkblue;
 }
 
 /* when hovering over buttons */
@@ -60,11 +60,11 @@ body {
     border-radius: 25%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font: bold;
-    color: white;
-    box-shadow: 0px 0px 4px 4px lightcoral;
+    color: black;
+    box-shadow: 0px 0px 4px 4px darkblue;
     margin-bottom: 10px;
-    background-color: lightcoral;
-    background: lightcoral
+    background-color: darkblue;
+    background: darkblue
 }
 
 .about:link, .games:link, .characters:link, .htw:link {
@@ -109,7 +109,7 @@ body {
 .mike_text {
     float: middle;
     vertical-align: middle;
-    color: whitesmoke;
+    color: black;
     font-size: 23px;
     width: 510px;
     margin-left: 50px;
@@ -122,7 +122,7 @@ body {
     size: 5px;
     vertical-align: bottom;
     float: middle;
-    color: whitesmoke;
+    color: black;
     font-size: 23px;
     width: 510px;
 }
@@ -132,7 +132,7 @@ body {
     size: 5px;
     vertical-align: bottom;
     float: left;
-    color: whitesmoke;
+    color: black;
     font-size: 23px;
     width: 500px;
     margin-top: 200px;
@@ -180,14 +180,14 @@ body {
 
 
 .monke {
-    color: whitesmoke;
+    color: black;
     size: 3px;
     align-items: center;
 }
 
 .scrolltop {
     background-color: white;
-    color: lightcoral;
+    color: darkblue;
     border-radius: 90px;
     border: 0px;
     position: fixed;
@@ -196,25 +196,25 @@ body {
     float: right;
 
 
-    border: white;
+    border: black;
     height: 60px;
     width:  60px;
     margin-top: 0px;
     margin-left: 8.5px;
     margin-right: 2pxpx;
-    text-emphasis-color: lightcoral;
+    text-emphasis-color: darkblue;
     font-size: 15px;
     border-radius: 90%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font: bold;
-    color: lightcoral;
+    color: darkblue;
     margin-right: 30px;
     margin-bottom: 25px;
     background-image: url('https://cdn-icons-png.flaticon.com/512/271/271239.png');
 }
 
 .notice {
-    color: white;
+    color: black;
     float: left;
     font-size: 10px;
     width: 20px;
@@ -224,6 +224,6 @@ body {
 
 
 .sources {
-    color: white;
+    color: black;
     font-size: 17px;
 }
