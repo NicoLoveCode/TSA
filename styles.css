@@ -13,7 +13,7 @@ body {
 
 /* about header (h3) style */
 .h3about, .characters_h3, .game_h3, .htw_h3 {
-    color: white;
+    color: black;
     font: bold;
     text-align: center;
     font-size: 55px;
