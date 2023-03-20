@@ -40,7 +40,7 @@ body {
     border-radius: 25%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font: bold;
-    color: black;
+    color: white;
     margin-bottom: 10px;
     font: bolder;
     background-color: darkblue;
@@ -186,8 +186,8 @@ body {
 }
 
 .scrolltop {
-    background-color: white;
-    color: darkblue;
+    background-color: darkblue;
+    color: white;
     border-radius: 90px;
     border: 0px;
     position: fixed;
